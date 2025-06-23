@@ -3,9 +3,6 @@ Course: [CS453]
 Assignment: Temperature Converter Android App  
 Date: [6/23/25]
 
-GitHub Repository:  
-https://github.com/YourUsername/YourRepoName
-
 Instructions to Run:
 1. Open the project in Android Studio.
 2. Build the project (Build > Rebuild Project).
