@@ -12,6 +12,3 @@ Instructions to Run:
 Expected Behavior:
 - Input is converted and result replaces the input field.
 - The opposite radio button gets selected.
-
-Screenshot of Working App:
-[Insert screenshot here – or attach below]
